@@ -3,4 +3,3 @@ pandas
 numpy
 altair
 joblib
-sklearn
